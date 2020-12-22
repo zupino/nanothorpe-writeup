@@ -2,7 +2,7 @@
 
 This is the writeup for the DefCon 2020 Nanothorpe CTF challange, I learned a lot working on it so I will share my notes.
 
-## Challange description
+## Challenge description
 
 You can find the challenge [here](https://2020.ctf.link/internal/challenge/5cbca392-d235-4652-a865-8bd2eaba8039). Mirror is down by now, but the full thing is available for local environment as Docker container, all the file are [here](https://2020.ctf.link/assets/files/nanothorpe-d2095dcfeda4b08d.tar.xz).
 
