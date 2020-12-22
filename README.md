@@ -217,7 +217,7 @@ The entire sequence looks now like this:
 
 1. Make the regular request, and capture the `signature` and `expiry` timestamp
 
-![regular request](image/regular-request.png)
+![regular request](images/regular-request.png)
 
 2. Feed the legitimate `signature` to `predict.py` script, which will add the new data and calculate a valid signature
 
